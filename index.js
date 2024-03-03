@@ -6,5 +6,4 @@ const toggleNavbar = () => {
   nav_header.classList.toggle("active");
 };
 
-//  subscribe to thapa technical Channle plz link:https://www.youtube.com/thapatechnical
 mobile_nav.addEventListener("click", () => toggleNavbar());
